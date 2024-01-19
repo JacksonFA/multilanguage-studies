@@ -1,0 +1,1 @@
+python3 -m uvicorn --app-dir=./src main:app --reload --port 3004
